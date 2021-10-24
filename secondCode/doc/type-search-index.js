@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"main","l":"main"},{"l":"所有类","u":"allclasses-index.html"}];updateSearchResults();
